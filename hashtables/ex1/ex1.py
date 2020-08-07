@@ -6,10 +6,13 @@ def get_indices_of_item_weights(weights, length, limit):
     '''
     obj to store all the entries and tracker to see where we are in ?
     so we need a linked list ? entry
+      
 
-    or 
+
+      ||
 
 
+      
     make an object 
     iterate through the list of weight
     make each weight as a key in the object
