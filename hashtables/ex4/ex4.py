@@ -12,7 +12,7 @@ def has_negatives(a):
 
     
     result = []
-    # add each number to d
+    # add each number to dict
     # access a key/value on obj is O(1)
     d_numbers = {}
     for num in a:
